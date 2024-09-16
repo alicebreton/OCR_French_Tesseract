@@ -1,0 +1,57 @@
+WER for anglicismes_2_ref.txt and anglicismes_2.txt: 0.00%
+No errors found.
+
+WER for anacéphaléose_ref.txt and anacéphaléose.txt: 15.76%
+Incorrect tokens:
+ - Substitution: 'ficelé.' -> '?'
+ - Insertion: 'hicelé.'
+ - Substitution: 'pardessus' -> 'Pardessus'
+ - Substitution: 'errer' -> 'érrer'
+ - Substitution: 'esthète.' -> 'ésthète,'
+ - Substitution: 'ny' -> 'n'y'
+ - Substitution: 'Saint-Lazare,' -> 'Saint-Lazare'
+ - Substitution: 's'il' -> '11'
+ - Insertion: 's'
+ - Substitution: 's'était' -> 'était'
+ - Insertion: 'S'
+ - Substitution: 'son' -> 'SON'
+ - Substitution: 'par' -> 'Par'
+ - Substitution: 'jeune' -> 'Jeune'
+ - Substitution: 'il' -> '1]'
+ - Substitution: 'Il' -> 'mou,'
+ - Substitution: 'mou.' -> 'ieutre'
+ - Deletion: 'feutre'
+ - Substitution: 'attention' -> 'on'
+ - Insertion: 'atten'
+ - Substitution: 'jeune' -> 'Jeune'
+ - Substitution: 'auto-' -> 'auto.'
+ - Substitution: 'dans' -> 'ans'
+ - Substitution: 'voyageais' -> 'Voyageais'
+ - Substitution: 'je' -> 'Je'
+ - Substitution: 'jours,' -> 'Jours,'
+
+WER for agitato_atrabile_ref.txt and agitato_atrabile.txt: 7.37%
+Incorrect tokens:
+ - Insertion: '27'
+ - Substitution: '-' -> '—'
+ - Substitution: 'Toi,' -> '‘loi,'
+ - Substitution: '-' -> '—'
+ - Substitution: 'Tu' -> '‘Tu'
+ - Substitution: '-' -> '—'
+ - Substitution: '-' -> '—'
+ - Substitution: '-' -> '—'
+ - Substitution: '-' -> '—'
+ - Substitution: '-' -> '—'
+ - Substitution: 'je' -> '—je'
+ - Deletion: '-'
+ - Substitution: 'Le' -> 'le'
+ - Substitution: 'il' -> '1l'
+ - Substitution: 'j'embraye' -> 'J'embraye'
+ - Substitution: 'ça' -> 'Ça'
+ - Substitution: 'invraisemblable.' -> 'mvraisemblable.'
+ - Substitution: 'Il' -> 'I]'
+ - Substitution: 'y' -> 'ÿ'
+ - Substitution: 'Il' -> 'I]'
+ - Substitution: 'l’autobus' -> 'l'autobus'
+
+Mean WER for all files: 7.71%

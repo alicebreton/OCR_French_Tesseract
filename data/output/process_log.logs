@@ -1,0 +1,13 @@
+Processing started at Tue Sep 10 16:23:49 CEST 2024
+Number of files to process: 3
+Processing ./data/output/agitato_atrabile_processed.jpg
+Estimating resolution as 758
+Processed ./data/output/agitato_atrabile_processed.jpg -> ./data/output/agitato_atrabile_output.txt
+Processing ./data/output/anacéphaléose_processed.jpg
+Estimating resolution as 989
+Processed ./data/output/anacéphaléose_processed.jpg -> ./data/output/anacéphaléose_output.txt
+Processing ./data/output/anglicismes_2_processed.jpg
+Estimating resolution as 916
+Processed ./data/output/anglicismes_2_processed.jpg -> ./data/output/anglicismes_2_output.txt
+Number of processed files: 3
+Processing complete at Tue Sep 10 16:24:00 CEST 2024

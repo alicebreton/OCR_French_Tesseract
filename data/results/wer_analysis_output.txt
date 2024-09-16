@@ -1,0 +1,50 @@
+### Aperçu du WER et des Erreurs
+| Fichier | WER (%) | Insertions | Substitutions | Suppressions | Total des Erreurs |
+|---------|---------|------------|---------------|--------------|-------------------|
+| anglicismes_2_ref.txt and anglicismes_2.txt | 0.00 | 4 | 21 | 1 | 26 |
+| anacéphaléose_ref.txt and anacéphaléose.txt | 15.76 | 1 | 19 | 1 | 21 |
+| agitato_atrabile_ref.txt and agitato_atrabile.txt | 7.37 | 0 | 0 | 0 | 0 |
+
+### Somme des Erreurs pour tous les fichiers
+| Type d'Erreur | Somme | Pourcentage (%) |
+|---------------|-------|-----------------|
+| Total des Erreurs | 47 | 100.00 |
+| Substitutions | 40 | 85.11 |
+| Insertions | 5 | 10.64 |
+| Suppressions | 2 | 4.26 |
+
+### Somme des Substitutions pour tous les fichiers
+| Substitution | Nombre |
+|--------------|--------|
+| - -> — | 7 |
+| jeune -> Jeune | 2 |
+| Il -> I] | 2 |
+| ficelé. -> ? | 1 |
+| ny -> n'y | 1 |
+| Saint-Lazare, -> Saint-Lazare | 1 |
+| errer -> érrer | 1 |
+| pardessus -> Pardessus | 1 |
+| s'était -> était | 1 |
+| son -> SON | 1 |
+| par -> Par | 1 |
+| il -> 1] | 1 |
+| Il -> mou, | 1 |
+| mou. -> ieutre | 1 |
+| s'il -> 11 | 1 |
+| esthète. -> ésthète, | 1 |
+| auto- -> auto. | 1 |
+| attention -> on | 1 |
+| je -> Je | 1 |
+| dans -> ans | 1 |
+| jours, -> Jours, | 1 |
+| Toi, -> ‘loi, | 1 |
+| Tu -> ‘Tu | 1 |
+| voyageais -> Voyageais | 1 |
+| je -> —je | 1 |
+| Le -> le | 1 |
+| j'embraye -> J'embraye | 1 |
+| il -> 1l | 1 |
+| ça -> Ça | 1 |
+| invraisemblable. -> mvraisemblable. | 1 |
+| y -> ÿ | 1 |
+| l’autobus -> l'autobus | 1 |
