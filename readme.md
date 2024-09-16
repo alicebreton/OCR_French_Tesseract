@@ -54,7 +54,7 @@ You should now have another text file called `./wer_analysis_output.txt`.
 
 ## Output exemple
 
-### Aperçu du WER et des Erreurs
+### WER and errors per files
 
 | Fichier                                           | WER (%) | Insertions | Substitutions | Suppressions | Total des Erreurs |
 | ------------------------------------------------- | ------- | ---------- | ------------- | ------------ | ----------------- |
@@ -62,19 +62,19 @@ You should now have another text file called `./wer_analysis_output.txt`.
 | anacéphaléose_ref.txt and anacéphaléose.txt   | 15.76   | 1          | 19            | 1            | 21                |
 | agitato_atrabile_ref.txt and agitato_atrabile.txt | 7.37    | 0          | 0             | 0            | 0                 |
 
-**WER moyen pour tous les fichiers :** 7.71%
+**Mean WER of all files :** 7.71%
 
-### Somme des Erreurs pour tous les fichiers
+### Total of errors per category
 
-| Type d'Erreur | Somme | Pourcentage (%) |
+| Error types | Total | Pourcentage (%) |
 | ------------- | ----- | --------------- |
 | Substitutions | 40    | 85.11           |
 | Insertions    | 5     | 10.64           |
 | Suppressions  | 2     | 4.26            |
 
-### Somme des Substitutions pour tous les fichiers
+### Detailed total of errors of substitution
 
-| Substitution                        | Nombre |
+| Substitution                        | Total |
 | ----------------------------------- | ------ |
 | - -> —                             | 7      |
 | jeune -> Jeune                      | 2      |
