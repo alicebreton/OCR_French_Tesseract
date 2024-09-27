@@ -130,6 +130,6 @@ def calculate_wer_for_files(ref_folder, hyp_folder, output_file):
 
 reference_folder_path = './data/ref/'
 hypothesis_folder_path = './data/output/'
-output_file_path = './wer_results.txt'
+output_file_path = './data/results/wer_results.txt'
 
 calculate_wer_for_files(reference_folder_path, hypothesis_folder_path, output_file_path)

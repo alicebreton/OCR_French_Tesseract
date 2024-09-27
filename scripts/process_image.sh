@@ -26,7 +26,7 @@ for input_image in "$output_folder"/*_processed.jpg; do
         echo "Processing $input_image" >> "$log_file"
         base_name=$(basename "$input_image" _processed.jpg)
         
-        output_file="$output_folder/${base_name}_output"
+        output_file="$output_folder/${base_name}"
         
         tesseract "$input_image" "$output_file" -l fra &>> "$log_file"
         

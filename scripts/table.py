@@ -100,8 +100,8 @@ def output_to_file(df_overview, df_sum_errors, df_sum_substitutions, output_file
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Traiter les résultats WER et afficher les tableaux.")
-    parser.add_argument('--file_path', type=str, default="./wer_results.txt", help="Chemin vers le fichier des résultats WER.")
-    parser.add_argument('--output_file', type=str, default="./wer_analysis_output.txt", help="Chemin vers le fichier de sortie.")
+    parser.add_argument('--file_path', type=str, default="./data/results/wer_results.txt", help="Chemin vers le fichier des résultats WER.")
+    parser.add_argument('--output_file', type=str, default="./data/results/wer_analysis_output.txt", help="Chemin vers le fichier de sortie.")
     
     args = parser.parse_args()
 
